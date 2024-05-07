@@ -1,4 +1,4 @@
-# UII_Act6_Diseno
+# UII_Act7_Slider
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
@@ -18,11 +18,16 @@ samples, guidance on mobile development, and a full API reference.
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
 
-## Diseño Act6 UII Daniel Lopez 
+## Slider Act7 UII Daniel Lopez 
 
--![image](https://github.com/JoseDanielL/DiseNoAct6/assets/99343068/ec895b2d-d3f7-4189-8f73-5787e15c4e97)
--![image](https://github.com/JoseDanielL/DiseNoAct6/assets/99343068/ec5fc395-7b98-41cf-8713-ec05c28f299a)
--![image](https://github.com/JoseDanielL/DiseNoAct6/assets/99343068/e17adb2b-cd81-475b-b278-c4b7cf568ea6)
+- ![image](https://github.com/JoseDanielL/SliderAct7/assets/99343068/bb13557f-83cc-4f6f-b3bc-2423187cee65)
+- ![image](https://github.com/JoseDanielL/SliderAct7/assets/99343068/5ff2e9af-70a5-48e4-93a3-542f085ea844)
+- ![image](https://github.com/JoseDanielL/SliderAct7/assets/99343068/778e5629-08cf-43dc-8a8b-ae28e64f6010)
+- ![image](https://github.com/JoseDanielL/SliderAct7/assets/99343068/a8fcf5ca-2cf5-48e7-a3e4-bab45543a0a9)
+
+
+
+
 
 
 
